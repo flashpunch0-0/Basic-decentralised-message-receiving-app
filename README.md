@@ -14,3 +14,4 @@ Next up comes the Replit or frontend file structure
 I have added the files 
 The html and css part can be designed according to your need.
 
+VISIT https://buildspace.so/p/build-solidity-web3-app   to learn how to create the app form basic .
